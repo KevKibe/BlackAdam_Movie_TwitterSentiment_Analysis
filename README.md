@@ -7,4 +7,6 @@ This is a project that i embarked on as a comic book fan to figure out how the p
 3. Process the data to remove words that dont contribute to the analysis, punctuation, URLs and repeating characters
 4. Perform a sentiment analysis using textblob
 5. Visualize the data
+
+
 ![image](https://user-images.githubusercontent.com/86055894/198242046-da491124-f5e6-48aa-8eda-5244c48f6e93.png)
